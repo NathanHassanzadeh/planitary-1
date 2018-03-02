@@ -12,8 +12,8 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "3.x",
-    "express3-handlebars": "*",
+    "express": "4.x",
+    "express-handlebars": "*",
     "feather-icons": "^4.5.0",
     "mongodb": "*",
     "mongoose": "*"
